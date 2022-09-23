@@ -1,4 +1,4 @@
-# JAVA-BooleansAndConditionals-SECTION-3
+# JAVA-BooleansAndConditionals-Section-Three
 
 Here I revisit the Java Fundamentals that I previously learned at Zip Code Wilmington coding bootcamp:  
 

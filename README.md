@@ -1,6 +1,8 @@
-# Revisiting-Java-Section-3
+# JAVA-BooleansAndConditionals-SECTION-3
 
-Here I revisit the Java Fundamentals that I previously learned at Zip Code Wilmington coding bootcamp:  Controlling how code runs using Booleans and Conditionals
+Here I revisit the Java Fundamentals that I previously learned at Zip Code Wilmington coding bootcamp:  
+
+<b>Controlling how code runs using Booleans and Conditionals</b>
 
 - Booleans
 - If statements

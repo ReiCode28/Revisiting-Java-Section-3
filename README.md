@@ -7,6 +7,7 @@ Here I revisit the Java Fundamentals that I previously learned at Zip Code Wilmi
 - Booleans
 - If statements
 - Switch statements
+- Delimiters
 - Dealership Application
 
 In the end, I challenge myself to create a simple dealership application to make sure that I completely understand Booleans and Conditionals. 
